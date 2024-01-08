@@ -17,5 +17,5 @@ IPL Matches 2008-2020
 IPL Winners List 2008-2020
 IPL ball by ball 2008 - 2020 
 📂 Power BI Project: The completed Power BI file for interactive exploration.
-IPL 2008-2020 PowerBI Project - Match Statistics Analysis
+IPL Statistics 2008-2020 PowerBI Project 
 
